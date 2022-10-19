@@ -8,7 +8,10 @@ I was a formerly a Mechanical Engineer in a manufacturing industry but while I w
 
 *   🌍  I'm based in the Philippines
 *   ✉️  You can contact me at [iamcarlosguinto@gmail.com](mailto:iamcarlosguinto@gmail.com)
-*   🧠  I'm learning frontend technologies like React as well as improving my knowledge on backend technologies and how to scale my code### Skills 
+*   🧠  I'm learning frontend technologies like React as well as improving my knowledge on backend technologies and how to scale my code 
+
+### Skills 
+
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
