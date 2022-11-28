@@ -4,7 +4,7 @@ Just your regular nerd trying to be a better developer each and every day.
 
 ### Quick facts
 * I love running and going to the gym.
-* If I'm not outside then I'm probably at home coding or configuring my nvim.
+* If I'm not outside then I'm probably at home coding ~~or configuring my nvim~~ on Emacs.
 
 ### Current Technologies
 <p align="left">
